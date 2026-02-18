@@ -18,5 +18,5 @@ A sleek and efficient web application built with **Streamlit** that leverages th
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Ai_filter_app.git](https://github.com/YOUR_USERNAME/Ai_filter_app.git)
+   git clone [https://github.com/TareqSharayri/Ai_filter_app.git](https://github.com/TareqSharayri/Ai_filter_app.git)
    cd Ai_filter_app
